@@ -18,7 +18,10 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ## What are in this repository:
-###README.md: this file
-###Cookbook: information about the variables, data and transformations used in the course project.
-###run_analysis.R: R script transforms the data per project requirement. 
-###Tidy Data Set: clean data set
+README.md: this file.
+
+Cookbook: information about the variables, data and transformations used in the course project.
+
+run_analysis.R: R script transforms the data per project requirement. 
+
+Tidy Data Set: clean data set
