@@ -52,6 +52,5 @@ to obtain valid R names without parentheses, dashes and commas
 to obtain more descriptive labels
 
 5.Create a tidy data set
-The data set is written to the file "tidyData.txt"
-
 From the intermediate data set is created a final tidy data set where numeric variables are averaged for each activity and each subject.
+The data set is written to the file "tidyData.txt"
